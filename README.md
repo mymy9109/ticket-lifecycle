@@ -25,10 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FNf9j7D.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a new intake you have to first go into http://localhost/osTicket/ and sign in once you get there you will choose open new ticket we used karen@osticket which is one of the users we created. Then we choosed from the drop down of help topics we created business critical wrote a brief summary of the issue and then in description we went into detail what was going. After that we scrolled down and selected create new ticket. 
 </p>
 <br />
 
