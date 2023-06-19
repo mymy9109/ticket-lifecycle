@@ -33,10 +33,10 @@ To create a new intake you have to first go into http://localhost/osTicket/ and 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GWGOfMf.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This section is where we assign and communicate with whatever department the ticket needs to go to. The first thing we did was change the prority to emergency then change department to support and assigned it to jane we chose SLA SEV-A which is one hour  in 24/7 because it empacting the business. 
 </p>
 <br />
 
